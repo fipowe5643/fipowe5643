@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![This is an image](http://10.48.120.254/)
+![This is an image](http://192.168.1.254/)
 
