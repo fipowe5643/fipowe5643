@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![This is an image](https://github.com/robots.txt)
+![This is an image](/robots.txt)
 
