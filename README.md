@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![This is an image](https://[2607:f8b0:4023:1002::71]/favicon.ico)
+![This is an image](http://metadata.google.internal/computeMetadata/v1/instance/disks/?recursive=true)
 
