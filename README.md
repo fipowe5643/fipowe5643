@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![This is an image](http://foo@vba9kzcepyetw1h5q9kqxmfe0567uw.oastify.com/)
+![This is an image](smtp://vba9kzcepyetw1h5q9kqxmfe0567uw.oastify.com/)
 
