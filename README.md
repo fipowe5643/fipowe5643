@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![This is an image](file:///vba9kzcepyetw1h5q9kqxmfe0567uw.oastify.com:80/)
+![This is an image](file:///etc/passwd)
 
