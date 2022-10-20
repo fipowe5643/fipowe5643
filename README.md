@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![This is an image](https://www.google.com/favicon.ico)
+![This is an image](https://network-proxy-03431bf.va3-iad.github.net/)
 
