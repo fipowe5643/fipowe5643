@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![This is an image](file:///etc/passwd )
+![This is an image](file:///etc/hosts)
 
