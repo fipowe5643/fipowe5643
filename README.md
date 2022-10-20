@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![This is an image](http://10.48.120.1/favicon.io)
+![This is an image](http://10.48.120.254/)
 
