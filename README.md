@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![This is an image](http://metadata.google.internal/computeMetadata/v1/instance/disks/?recursive=true)
+![This is an image](https://github.com/robots.txt)
 
